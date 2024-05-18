@@ -1,3 +1,4 @@
 
 us-east-1_19v1Ds8hH
 7fdtte39jcjotkf2kapgmi7sf8
+arn:aws:dynamodb:us-east-1:641638335125:table/Rides
